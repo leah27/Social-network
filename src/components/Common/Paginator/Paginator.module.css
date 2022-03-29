@@ -1,0 +1,23 @@
+.pages {
+    margin-left: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+.pages > span {
+    padding-right: 10px;
+}
+.prev {
+    margin-right: 10px;
+}
+.selectedPage {
+    font-weight: bold;
+}
+
+.paginator {
+    margin: 10px;
+}
+
+.pageNumber {
+    padding: 2px;
+}

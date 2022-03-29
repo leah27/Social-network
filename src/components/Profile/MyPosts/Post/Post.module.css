@@ -1,0 +1,17 @@
+.avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.wrap {
+    position: relative;
+  
+}
+
+p {
+    position: absolute;
+    left: 70px;
+    top: 0px;
+    
+}

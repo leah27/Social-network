@@ -1,0 +1,39 @@
+.icon {
+    width: 50px;
+    height: 50px;
+}
+
+.wrapper {
+    padding-left: 20px;
+    padding-bottom: 7px;
+}
+
+/* .pages {
+    margin-left: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+.pages > span {
+    padding-right: 10px;
+}
+.selectedPage {
+    font-weight: bold;
+} */
+
+.button {
+    cursor: pointer;
+    background-color: grey;
+    padding: 3px;
+    border: none;
+    outline: none;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    color: cornsilk;
+    width: 70px;
+}
+
+.button:disabled {
+    background-color: cornsilk;
+    color: grey;
+}

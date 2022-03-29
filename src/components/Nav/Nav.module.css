@@ -1,0 +1,25 @@
+.nav {
+    grid-area: n;
+    background-color: tomato;
+}
+
+ul li {
+    list-style-type: none;
+    font-size: 25px;
+    padding-top: 15px;
+}
+    
+    li > a {
+    color: #156868;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+    
+    li > a:hover {
+    color: gold;
+}
+
+.activeLink {
+    color: gold;
+}

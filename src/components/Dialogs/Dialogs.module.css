@@ -1,0 +1,47 @@
+.dialogs {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItem, .messages {
+    padding: 7px;
+}
+.item {
+    position: relative;
+}
+.user {
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+.activeLink {
+    color: gold!important;
+}
+.user, .message {
+    text-decoration: none;
+    color: #156868;
+}
+
+.message {
+    padding-top: 10px;
+    padding-left: 200px;
+}
+
+.avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.send {
+    padding-left: 200px;
+    padding-top: 50px;
+    position: relative;
+}
+
+.send > button {
+   /* position: absolute;
+   bottom: 10%;
+   margin-left: 10px; */
+}

@@ -1,0 +1,14 @@
+.wrap {
+    /* display: flex;
+    align-items: center; */
+}
+
+.new {
+    /* margin-left: 5px; */
+    height: 25px;
+    min-width: 80px;
+}
+
+h2 {
+    color: #156868;
+}
